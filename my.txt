@@ -1,2 +1,6 @@
 'Welcome to git'
 'Learning to edit'
+
+// THIS WOULD BE UNCOMMITTED
+'Hello world'
+Hi all
